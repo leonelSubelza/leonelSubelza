@@ -1,66 +1,73 @@
- <h2 align="left" id="macropower-tech">💻Tecnologias </h2>
+## About me 😄
+University student graduated from the University Technician in Computer Science, with knowledge in Java using the Spring framework and with knowledge using javascript with typescript using the React Js framework.
 
-> Lenguajes con los que trabajo
-<table align="center">
+<i style="center"> Software Developer | Spring Framework☘️ | React JS⚛️  </i>
+<br>
+ <h2 align="left" id="macropower-tech">Technologies which i work it ⚡</h2>
+<table align="start">
     <tr>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50" alt="HTML5" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50" alt="CSS3" />
-      </a>
-      <br>CSS3
-    </td>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>React
-    </td>    
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50" height="50" alt="Java" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://spring.io/favicon.svg?v=96334d577af708644f6f0495dd1c7bc8" width="50" height="50" alt="Spring" />
-      </a>
-      <br>Spring
-    </td>    
-    <tr>
-    <td align="center" width="100">
-   <a href="#">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="CSS3" />
-   </a>
-  <br>Github
-   </td>
+     <td align="center" width="100">
+       <a href="#">
+         <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" height="50" alt="JavaScript" />
+       </a>
+       <br>JavaScript
+     </td>
+     <td align="center" width="100">
+       <a href="#">
+         <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50" alt="HTML5" />
+       </a>
+       <br>HTML5
+     </td>
+     <td align="center" width="100">
+       <a href="#">
+         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50" alt="CSS3" />
+       </a>
+       <br>CSS3
+     </td>
+     <td align="center" width="100">
+       <a href="#">
+         <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50" height="50" alt="JavaScript" />
+       </a>
+       <br>React
+     </td>    
+     <td align="center" width="100">
+       <a href="#">
+         <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50" height="50" alt="Java" />
+       </a>
+       <br>Java
+     </td>
+     <td align="center" width="100">
+       <a href="#">
+         <img src="https://spring.io/favicon.svg?v=96334d577af708644f6f0495dd1c7bc8" width="50" height="50" alt="Spring" />
+       </a>
+       <br>Spring
+     </td>    
      <td align="center" width="100">
       <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/es6.svg" width="50" height="50" alt="JavaScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="CSS3" />
       </a>
-      <br>ES6
-    <td align="center" width="100">
+      <br>Github
+     </td>
+     <td align="center" width="100">
       <a href="#">
-        <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="50" height="50" alt="MySQL" />
+        <img src="https://www.typescriptlang.org/favicon-32x32.png?v=8944a05a8b601855de116c8a56d3b3ae" width="50" height="50" alt="Typescript" />
       </a>
-      <br>MySQL
-    </td>
+      <br>Typescript
+     </td>
+     <td align="center" width="100">
+       <a href="#">
+         <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="50" height="50" alt="MySQL" />
+       </a>
+       <br>MySQL
+     </td>
   </tr>
 </table>
 
+## Social Media and Contact 📫
 
+- GitHub: [leonelSubelza](https://github.com/leonelSubelza)
+- LinkedIn: [Leonel Subelza](https://www.linkedin.com/in/leonel-subelza-4b57a1215/))
+- Email: subelza150@gmail.com
 <!--
 **leonelSubelza/leonelSubelza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
