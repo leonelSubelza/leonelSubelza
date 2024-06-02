@@ -1,4 +1,4 @@
-## About me 😄 <img alt="Hello hand" src="https://raw.githubusercontent.com/sergiecode/sergiecode/main/Hand%20Wave.gif" width='40' align="left">
+## About me 😄 <img alt="Hello hand" src="Hand Wave.gif" width='40' align="left">
 University student graduated from the University Technician in Computer Science, with knowledge in Java using the Spring framework and with knowledge using javascript with typescript using the React Js framework.
 
 <i style="center"> Software Developer | Spring Framework☘️ | React JS⚛️  </i>
