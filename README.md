@@ -2,6 +2,11 @@
 University student graduated from the University Technician in Computer Science, with knowledge in Java using the Spring framework and with knowledge using javascript with typescript using the React Js framework.
 
 <i style="center"> Software Developer | Spring Framework☘️ | React JS⚛️  </i>
+
+- 🔭 I’m currently working on a chat application where i use Spring Framework for the backend and React from the frontend.
+- 🌱 I’m currently <b>learning Angular 🅰️</b>
+- 🔭 My last Project: [chat-application](https://github.com/leonelSubelza/chat-app-v2)
+
 <br>
  <h2 align="left" id="macropower-tech">Technologies which i work it ⚡</h2>
 <table align="start">
