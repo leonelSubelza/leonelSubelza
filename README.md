@@ -71,7 +71,7 @@ University student graduated from the University Technician in Computer Science,
 ## Social Media and Contact 📫
 
 - GitHub: [leonelSubelza](https://github.com/leonelSubelza)
-- LinkedIn: [Leonel Subelza](https://www.linkedin.com/in/leonel-subelza-4b57a1215/))
+- LinkedIn: [Leonel Subelza](https://www.linkedin.com/in/leonel-subelza-4b57a1215/)
 - Email: subelza150@gmail.com
 <!--
 **leonelSubelza/leonelSubelza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
