@@ -1,4 +1,4 @@
-## About me 😄
+## About me 😄 <img alt="Hello hand" src="https://raw.githubusercontent.com/sergiecode/sergiecode/main/Hand%20Wave.gif" width='40' align="left">
 University student graduated from the University Technician in Computer Science, with knowledge in Java using the Spring framework and with knowledge using javascript with typescript using the React Js framework.
 
 <i style="center"> Software Developer | Spring Framework☘️ | React JS⚛️  </i>
@@ -69,10 +69,15 @@ University student graduated from the University Technician in Computer Science,
 </table>
 
 ## Social Media and Contact 📫
-
+<!--
 - GitHub: [leonelSubelza](https://github.com/leonelSubelza)
-- LinkedIn: [Leonel Subelza](https://www.linkedin.com/in/leonel-subelza-4b57a1215/)
+ - LinkedIn: [Leonel Subelza](https://www.linkedin.com/in/leonel-subelza-4b57a1215/)
 - Email: subelza150@gmail.com
+-->
+- <a href="https://github.com/leonelSubelza"><img src="https://img.shields.io/badge/-github.com/leonelSubelza-3423A6?style=flat&logo=Google-Chrome&logoColor=white"></a>
+- <a href="https://www.linkedin.com/in/leonel-subelza-4b57a1215/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"></a>
+- <a href="mailto:subelza150@gmail.com"><img src="https://img.shields.io/badge/-subelza150@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"></a>
+
 <!--
 **leonelSubelza/leonelSubelza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
