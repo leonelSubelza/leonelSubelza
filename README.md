@@ -3,9 +3,15 @@ University student graduated from the University Technician in Computer Science,
 
 <i style="center"> Software Developer | Spring Framework☘️ | React JS⚛️  </i>
 
-- 🔭 I’m currently working on a chat application where i use Spring Framework for the backend and React from the frontend.
+ - 🔭 I’m currently working on a chat application where i use Spring Framework for the backend and React from the frontend.-->
 - 🌱 I’m currently <b>learning Angular 🅰️</b>
 - 🔭 My last Project: [chat-application](https://github.com/leonelSubelza/chat-app-v2)
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BogdanKlimov11/BogdanKlimov11/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BogdanKlimov11/BogdanKlimov11/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/BogdanKlimov11/BogdanKlimov11/output/github-contribution-grid-snake.svg" width="100%" height="auto">
+</picture>
 
 <br>
  <h2 align="left" id="macropower-tech">Technologies which i work it ⚡</h2>
