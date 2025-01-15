@@ -1,20 +1,22 @@
 ## About me 😄 <img alt="Hello hand" src="Hand Wave.gif" width='40' align="left">
-University student graduated from the University Technician in Computer Science, with knowledge in Java using the Spring framework and with knowledge using javascript with typescript using the React Js framework.
+I am a university graduate with a degree as a University Technician in Computer Science. I have hands-on experience in **Java**, leveraging the **Spring framework** for backend development, and proficient knowledge of **JavaScript** and **TypeScript**, with expertise in using **React.js** to build dynamic web applications.  
 
-<i style="center"> Software Developer | Spring Framework☘️ | React JS⚛️  </i>
+Additionally, I have a foundational understanding of frameworks like **Next.js** and **Angular**, which I use to design intuitive and user-friendly graphical interfaces for my systems. I am passionate about continuously learning and applying modern technologies to create efficient and scalable solutions.  
 
- - 🔭 I’m currently working on a chat application where i use Spring Framework for the backend and React from the frontend.-->
-- 🌱 I’m currently <b>learning Angular 🅰️</b>
-- 🔭 My last Project: [chat-application](https://github.com/leonelSubelza/chat-app-v2)
+<br/>
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BogdanKlimov11/BogdanKlimov11/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BogdanKlimov11/BogdanKlimov11/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/BogdanKlimov11/BogdanKlimov11/output/github-contribution-grid-snake.svg" width="100%" height="auto">
-</picture>
+<div align="center">
+  <i><b>Software Developer</b> | <b>Backend with Spring ☘️</b> | <b>Frontend with React.js ⚛️</b></i>
+</div>
 
-<br>
- <h2 align="left" id="macropower-tech">Technologies which i work it ⚡</h2>
+<br/>
+
+- 🔭 I'm currently developing a system for a library using **Angular** and **Spring**  
+- 🌱 I'm currently learning <b>Next.js 🚀</b>  
+- 🔭 My last project: [Chat Application](https://github.com/leonelSubelza/chat-app-v2) – A real-time chat application built with React.js and Spring Framework  
+
+<h2 align="left" id="leonelSubelza-tech">Technologies I work with ⚡</h2>
+
 <table align="start">
     <tr>
      <td align="center" width="100">
@@ -71,20 +73,31 @@ University student graduated from the University Technician in Computer Science,
        </a>
        <br>MySQL
      </td>
+     <td align="center" width="100">
+       <a href="#">
+         <img src="https://angular.dev/assets/icons/apple-touch-icon.png" width="50" height="50" alt="Angular" />
+       </a>
+       <br>Angular
+     </td>
+     <td align="center" width="100">
+       <a href="#">
+         <img src="https://nextjs.org/favicon.ico" width="50" height="50" alt="NextJs" />
+       </a>
+       <br>NextJs
+     </td>
   </tr>
 </table>
 
 ## Social Media and Contact 📫
-<!--
-- GitHub: [leonelSubelza](https://github.com/leonelSubelza)
- - LinkedIn: [Leonel Subelza](https://www.linkedin.com/in/leonel-subelza-4b57a1215/)
-- Email: subelza150@gmail.com
--->
-- <a href="https://github.com/leonelSubelza"><img src="https://img.shields.io/badge/-github.com/leonelSubelza-3423A6?style=flat&logo=Google-Chrome&logoColor=white"></a>
-- <a href="https://www.linkedin.com/in/leonel-subelza-4b57a1215/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"></a>
-- <a href="mailto:subelza150@gmail.com"><img src="https://img.shields.io/badge/-subelza150@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"></a>
+<p align="center">Connect with me:</p>
+<p align="center">
+    <a href="https://www.linkedin.com/in/leonel-subelza-4b57a1215/"  target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@leonelSubelzaLinkedin"/></a>
+    <a href = "mailto:subelza150@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@leonelSubelzaGmail" /></a>
+</p>
 
 <!--
+ 🗑️👇
+
 **leonelSubelza/leonelSubelza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -97,4 +110,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BogdanKlimov11/BogdanKlimov11/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BogdanKlimov11/BogdanKlimov11/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/BogdanKlimov11/BogdanKlimov11/output/github-contribution-grid-snake.svg" width="100%" height="auto">
+</picture>
+
+- <a href="https://github.com/leonelSubelza"><img src="https://img.shields.io/badge/-github.com/leonelSubelza-3423A6?style=flat&logo=Google-Chrome&logoColor=white"></a>
+- <a href="https://www.linkedin.com/in/leonel-subelza-4b57a1215/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"></a>
+- <a href="mailto:subelza150@gmail.com"><img src="https://img.shields.io/badge/-subelza150@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"></a>
 -->
